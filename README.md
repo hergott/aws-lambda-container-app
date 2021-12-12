@@ -11,4 +11,4 @@ This application uses the [Huggingface transformers](https://huggingface.co/tran
 2. Download the relevant material.
 3. Translate the text into English using pretrained neural networks from the [Language Technology Research Group](https://blogs.helsinki.fi/language-technology/) at the University of Helsinki.
 4. Summarize the material using the [T5 neural network](https://arxiv.org/abs/1910.10683).
-5. Publish the results to an AWS S3 bucket configured as a static webpage: [summaries.html](http://web-translation-summarization.s3-website-us-west-1.amazonaws.com/).
+5. Publish the results to an AWS S3 bucket configured as a static webpage: [summaries.html](http://web-translation-summarization.s3-website-us-west-1.amazonaws.com/)
