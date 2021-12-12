@@ -1,0 +1,16 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+boto3
+sentencepiece
+transformers
+bs4
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.10.0+cpu
+feedparser
+
+
+
+
+
