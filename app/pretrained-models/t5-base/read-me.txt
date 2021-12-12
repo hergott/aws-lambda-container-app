@@ -1,0 +1,1 @@
+If the T5-base model is selected, the Huggingface library will download the neural network weight files into this folder.
