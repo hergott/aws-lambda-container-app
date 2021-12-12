@@ -1,0 +1,1 @@
+If German-to-English translation is selected, the Huggingface library will download the neural network weight files into this folder.
