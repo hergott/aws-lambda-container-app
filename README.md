@@ -3,7 +3,7 @@ AWS Lambda deep learning application using Docker container image.
 
 ## Translates foreign-language material into English and summarizes into bullet-point style.
 
-[AWS Lambda containers project architecture](MJH-AWS-Lambda-containers.png)
+![AWS Lambda containers project architecture](MJH-AWS-Lambda-containers.png)
 
 This project demonstrates AWS Lambda's new support for [container images](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/).
 
